@@ -1,0 +1,15 @@
+{
+    "name": "cmal/twitter",
+    "license": "GPL-3.0+",
+
+    "require": {
+        "apix/cache": "^1.3",
+        "alct/noapi": "dev-master"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "cmal\\Twitter\\": "src/"
+        }
+    }
+}
