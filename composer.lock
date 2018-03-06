@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "53f8d1d6f91650da7b250bf7bba9d7e5",
+    "content-hash": "4b919e4ecffdbc3d9244d10dabf5a06e",
     "packages": [
         {
             "name": "alct/noapi",
-            "version": "dev-master",
+            "version": "v1.0.0-alpha8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/alct/noapi.git",
-                "reference": "de0b21a1a55988ce4b62e4e954c444111bc0e8ce"
+                "reference": "3123afaeed2f0467952c978ef5501428cef96eb5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/alct/noapi/zipball/de0b21a1a55988ce4b62e4e954c444111bc0e8ce",
-                "reference": "de0b21a1a55988ce4b62e4e954c444111bc0e8ce",
+                "url": "https://api.github.com/repos/alct/noapi/zipball/3123afaeed2f0467952c978ef5501428cef96eb5",
+                "reference": "3123afaeed2f0467952c978ef5501428cef96eb5",
                 "shasum": ""
             },
             "require": {
@@ -48,7 +48,7 @@
                 "parser",
                 "twitter"
             ],
-            "time": "2016-09-11T10:12:27+00:00"
+            "time": "2016-08-11T11:53:02+00:00"
         },
         {
             "name": "apix/cache",
@@ -190,7 +190,7 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "alct/noapi": 20
+        "alct/noapi": 15
     },
     "prefer-stable": false,
     "prefer-lowest": false,

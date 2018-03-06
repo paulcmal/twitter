@@ -3,7 +3,7 @@
 namespace cmal\Twitter;
 
 use \Apix\Cache;
-use \alct\noapi;
+use \alct\noapi\NoAPI;
 
 /*
     Fork of https://github.com/alct/noapi

@@ -4,7 +4,7 @@
 
     "require": {
         "apix/cache": "^1.3",
-        "alct/noapi": "dev-master"
+        "alct/noapi": "1.0.0-alpha8"
     },
 
     "autoload": {
